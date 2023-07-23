@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Coding Ninjas C++/PARIKH/Parikh 251 DSA Questions/Basic DSA/Arrays",
-      "program": "d:/Coding Ninjas C++/PARIKH/Parikh 251 DSA Questions/Basic DSA/Arrays/build/Debug/outDebug",
+      "cwd": "d:/Coding Ninjas C++/PARIKH/Parikh 251 DSA Questions",
+      "program": "d:/Coding Ninjas C++/PARIKH/Parikh 251 DSA Questions/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
